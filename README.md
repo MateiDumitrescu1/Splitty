@@ -1,6 +1,3 @@
-# OOPP Project
-This repository contains our OOPP project, a Java-based application that implements various features and functionalities. We are are team 04, with the participants: Matei Dumitrescu, Matej Kliment, Mario Nicolae, Mihai Nicolae, Teodor Mocanu, Sebastian Mustata.
-
 ## How to Run the Project
 In order to run the project, follow these steps:
 1. Clone the repository to your local machine.
